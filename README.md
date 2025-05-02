@@ -1,1 +1,1 @@
-# mortgage-app
+# CRA Mortgage App\nThis is a mortgage readiness React app built with Firebase and deployed on Vercel.
